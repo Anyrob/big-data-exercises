@@ -2,3 +2,4 @@
 *.iml
 *.cvc
 target/
+*.DS_Store
